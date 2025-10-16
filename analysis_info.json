@@ -1,0 +1,20 @@
+{
+  "text_col": "Review",
+  "polarity_col": "Polarity",
+  "type_col": "Type",
+  "total_samples": 208051,
+  "polarity_imbalance": 25.098511303069287,
+  "type_imbalance": 1.6868313557673604,
+  "polarity_distribution": {
+    "1.0": 5441,
+    "2.0": 5496,
+    "3.0": 15519,
+    "4.0": 45034,
+    "5.0": 136561
+  },
+  "type_distribution": {
+    "Restaurant": 86720,
+    "Attractive": 69921,
+    "Hotel": 51410
+  }
+}
